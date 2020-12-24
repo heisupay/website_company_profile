@@ -1,0 +1,28 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5)
+}
+
+.parallax-container {
+
+    /* min-height: 50px; */
+    height: 240px;
+
+}
+
+.parallax img {
+    height: auto;
+    backdrop-filter: 1px;
+    opacity: 0.3 !important;
+}
+
+.clients img {
+    max-width: 200px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+}
+
+section,
+footer {
+    padding: 10px;
+}
